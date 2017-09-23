@@ -10,5 +10,5 @@ https://github.com/linxi0428/httpscan
 
 # TZ-SCAN使用说明
 
-![image](screenshots/usage.png)
+![image](screenshots/use.png)
 
