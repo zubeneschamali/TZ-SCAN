@@ -10,7 +10,7 @@ http://www.tiaozhanziwo.com/
 
 # 更新日志
 
-T20170923：V2.0.1
+# <b>T20170923：V2.0.1</b>
 
 # TZ-SCAN目录结构及功能图解
 
