@@ -4,6 +4,14 @@ TZ-SCAN为HTTPSCAN第2版本，第一版本的httpscan参考
 
 https://github.com/linxi0428/httpscan
 
+# 作者博客
+
+http://www.tiaozhanziwo.com/
+
+# 更新日志
+
+T20170923：V2.0.1
+
 # TZ-SCAN目录结构及功能图解
 
 ![image](screenshots/example.png)
